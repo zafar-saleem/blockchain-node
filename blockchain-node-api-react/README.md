@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started
 
 ```
 1. Run `yarn` to install all dependencies.
